@@ -1,7 +1,7 @@
 # Teams
 
 ## Team 1: Modulo Alumnos
-"Eric Uriel Rojas Torres"
+"1. Eric Uriel Rojas Torres"
 
 
 
