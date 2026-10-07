@@ -29,7 +29,7 @@
 
 
 
-
+4. Samuel Riveroll Vargas
 
 ## Modulo 6: Modulo Registro de calificaciones
 
