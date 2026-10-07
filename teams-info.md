@@ -32,7 +32,7 @@
 
 
 ## Modulo 6: Modulo Registro de calificaciones
-
+1. Luis Fernando Guerrero Pedroza
 
 
 
