@@ -8,7 +8,7 @@
 
 
 ## Team 2: Modulo Inscripciones
-
+1.- Pamela Concepcion Abasolo Diaz
 
 
 
