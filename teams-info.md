@@ -14,13 +14,13 @@
 
 
 ## Team 3: Modulo Profesores
-
+1. Ariel Rodriguez Monroy
 
 
 
 
 ## Team 4: Modulo Asignaturas/Materias
-
+1. Alan Uribe Hernández
 
 
 
@@ -32,7 +32,7 @@
 
 
 ## Modulo 6: Modulo Registro de calificaciones
+1. Luis Fernando Guerrero Pedroza
 
-2. Gabriell Quetzalli Santana Reyes
 
-
+4. Gabriell Quetzalli Santana Reyes
