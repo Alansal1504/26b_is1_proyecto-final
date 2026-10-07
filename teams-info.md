@@ -32,7 +32,7 @@
 
 
 ## Modulo 6: Modulo Registro de calificaciones
-1. Gabriell Quetzalli Santana Reyes
 
+2. Gabriell Quetzalli Santana Reyes
 
 
