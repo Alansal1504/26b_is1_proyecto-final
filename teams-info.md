@@ -32,7 +32,7 @@
 
 
 ## Modulo 6: Modulo Registro de calificaciones
-Tendzin Angello Diaz Estrada
+1-Tendzin Angello Diaz Estrada
 
 
 
